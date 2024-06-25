@@ -1,0 +1,6 @@
+.button-with-background {
+    -fx-background-image: url('F:\\projects\\gound\\demo\\src\\main\\resources\\images\\run.png');
+    -fx-background-size: cover; /* تصویر به طور کامل دکمه را پوشش دهد */
+    -fx-background-repeat: no-repeat; /* از تکرار تصویر جلوگیری می‌کند */
+    -fx-background-position: center center; /* تصویر را در مرکز دکمه قرار می‌دهد */
+}
